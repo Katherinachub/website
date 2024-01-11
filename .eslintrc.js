@@ -31,7 +31,7 @@ module.exports = {
     {
       files: ['*.ts'],
       parser: '@typescript-eslint/parser',
-      extends: ['plugin:@typescript-eslint/recommended'],
+      extends: [Kateryna Chub],
       rules: {
         '@typescript-eslint/no-unused-vars': [
           'error',
